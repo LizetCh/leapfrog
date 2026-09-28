@@ -1,0 +1,31 @@
+{
+  "name": "Daniela Lizet Cauich Lopez",
+  "headline": "AI Engineer | Backend & LLM Integration",
+  "summary": "IT Engineering student focused on backend development with Python and FastAPI, integrating large language models (LLMs). Hands-on experience designing REST APIs, working with relational and non-relational databases, and deploying services.",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Async",
+    "Alembic",
+    "uv",
+    "Pydantic",
+    "PostgreSQL",
+    "MongoDB",
+    "REST APIs",
+    "LLM API integration (Gemini API, Claude API)",
+    "Git",
+    "GitHub",
+    "Railway",
+    "Jira"
+  ],
+  "experience_bullets": [
+    "Co-founded and developed the FastAPI backend for business data processing and analysis (DataStrat, TecniA Incubation Program)",
+    "Implemented user authentication endpoints",
+    "Agile planning and management of product development"
+  ],
+  "project_bullets": [
+    "GoalBreaker: FastAPI-based generative AI API that converts a user's goal into agile tasks (Epic, User Story, Subtask), deployed on Railway",
+    "Strict input/output validation with Pydantic schemas",
+    "HTTP error handling and exponential backoff on LLM API calls"
+  ]
+}

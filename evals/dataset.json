@@ -1,0 +1,50 @@
+[
+  {
+    "id": "strong-fit-fastapi-llm",
+    "jd_text": "Junior AI Engineer at a Series A startup. We're building an LLM-powered backend platform. Requirements: Python, FastAPI, Pydantic, REST API design, experience integrating LLM APIs (OpenAI, Anthropic, or Gemini). Nice to have: PostgreSQL, async programming, deployment experience (Railway, Docker, or AWS). This is a junior/entry-level role, full-time, remote-friendly.",
+    "expected_fit_range": [65, 95],
+    "note": "Near-perfect overlap with her existing stack; score should be high."
+  },
+  {
+    "id": "weak-fit-ml-research",
+    "jd_text": "Senior Machine Learning Research Scientist. Requires PhD in Machine Learning or related field, 5+ years publishing at top ML venues (NeurIPS, ICML), deep expertise in PyTorch, distributed training of large models, and novel architecture research. Full-time, on-site.",
+    "expected_fit_range": [0, 25],
+    "note": "Senior research role, no backend/API overlap; score should be low."
+  },
+  {
+    "id": "medium-fit-backend-heavy",
+    "jd_text": "Backend Engineer, mid-level. Own our core REST API built in Python/FastAPI, work with PostgreSQL and MongoDB, write Alembic migrations. Some exposure to AI features is a plus but not required. Full-time, hybrid.",
+    "expected_fit_range": [55, 85],
+    "note": "Strong backend overlap, AI is optional; score should be moderately high."
+  },
+  {
+    "id": "weak-fit-frontend",
+    "jd_text": "Senior Frontend Engineer. Requires 5+ years React, TypeScript, deep CSS/design systems expertise, and experience leading a frontend team. Full-time, on-site.",
+    "expected_fit_range": [0, 20],
+    "note": "No backend/AI overlap at all; score should be very low."
+  },
+  {
+    "id": "strong-fit-agent-tooling",
+    "jd_text": "AI Engineer - Agent Tooling. Build and maintain agentic pipelines using Python and Pydantic-typed contracts between steps. Integrate LLM APIs (Anthropic Claude preferred) with tool/function calling. FastAPI for serving endpoints. Entry to mid-level, remote.",
+    "expected_fit_range": [70, 95],
+    "note": "Direct match to this very project's tech; score should be high."
+  },
+  {
+    "id": "medium-fit-devops",
+    "jd_text": "DevOps / Platform Engineer. Manage CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS). Some Python scripting involved. Full-time, on-site.",
+    "expected_fit_range": [10, 35],
+    "note": "Minimal overlap beyond general Python/deploy familiarity; score should be low-ish."
+  },
+  {
+    "id": "strong-fit-startup-generalist",
+    "jd_text": "Founding Engineer at an early-stage AI startup. You'll build our entire backend from scratch: FastAPI, PostgreSQL, LLM integrations for a generative product, deployment on Railway. We move fast and value people who ship. Full-time, remote.",
+    "expected_fit_range": [60, 90],
+    "note": "Matches goalbreaker's exact profile; score should be high."
+  },
+  {
+    "id": "weak-fit-mobile",
+    "jd_text": "iOS Engineer. Requires Swift, SwiftUI, 3+ years shipping consumer mobile apps on the App Store. Full-time, on-site.",
+    "expected_fit_range": [0, 15],
+    "note": "No overlap; score should be near zero."
+  }
+]
